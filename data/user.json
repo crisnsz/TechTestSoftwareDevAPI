@@ -1,0 +1,2120 @@
+{
+    "person": {
+      "professionalHeadline": "Software Developer",
+      "completion": 1,
+      "showPhone": false,
+      "created": "2020-12-27T04:02:55Z",
+      "verified": true,
+      "flags": {
+        "benefits": true,
+        "canary": false,
+        "enlauSource": false,
+        "fake": false,
+        "featureDiscovery": true,
+        "firstSignalSent": true,
+        "signalsOnboardingCompleted": true,
+        "importingLinkedin": false,
+        "onBoarded": true,
+        "remoter": true,
+        "signalsFeatureDiscovery": true,
+        "importingLinkedinRecommendations": true,
+        "contactsImported": true,
+        "appContactsImported": false,
+        "genomeCompletionAcknowledged": false,
+        "cvImported": false,
+        "communityCreatedPrivate": false,
+        "communityCreatedClaimed": false,
+        "connectBenefitsViewed": true
+      },
+      "weight": 0,
+      "ggId": "986169",
+      "completionStage": { "stage": 3, "progress": 1 },
+      "locale": "en",
+      "subjectId": 986169,
+      "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v0/origin/starrgate/users/profile_d35bf6a124867848eb8cc8cb9e71cf3f639d3eb3.jpg",
+      "hasEmail": true,
+      "isTest": false,
+      "name": "Cristian Alexander Sánchez Mendoza",
+      "links": [
+        {
+          "id": "KNxbODKj",
+          "name": "linkedin",
+          "address": "https://www.linkedin.com/in/cristian-alexander-s%C3%A1nchez-mendoza-9804aa186/"
+        },
+        {
+          "id": "GNKzQAYy",
+          "name": "twitter",
+          "address": "https://twitter.com/crisn_sz"
+        },
+        {
+          "id": "Vjw7OVOj",
+          "name": "github",
+          "address": "https://github.com/crisnsz"
+        },
+        {
+          "id": "qy0n51QM",
+          "name": "link",
+          "address": "https://crisnsz.github.io/Portfolio/"
+        }
+      ],
+      "location": {
+        "name": "Departamento de Cortes, Honduras",
+        "shortName": "Departamento de Cortes, Honduras",
+        "country": "Honduras",
+        "latitude": 15.4923508,
+        "longitude": -88.0900762,
+        "timezone": "America/Tegucigalpa",
+        "timezoneOffSet": -21600000
+      },
+      "theme": "pink300",
+      "id": "9MBAQdXN",
+      "pictureThumbnail": "https://res.cloudinary.com/torre-technologies-co/image/upload/c_fill,h_150,w_150/v0/origin/starrgate/users/profile_d35bf6a124867848eb8cc8cb9e71cf3f639d3eb3.jpg",
+      "claimant": false,
+      "summaryOfBio": "Graduated from the Programming Academy of the AHM.\n\nCurrently, I am looking freelancer or permanent jobs on software development.\n- Student of Informatic Engineering at CEUTEC",
+      "weightGraph": "https://hcti.io/v1/image/da531f22-1c5d-43ce-a240-57101cfd216c",
+      "publicId": "cristiansanchez9824"
+    },
+    "stats": { "jobs": 5, "education": 2, "strengths": 94 },
+    "strengths": [
+      {
+        "id": "MgEGBlmy",
+        "code": 15407,
+        "name": "PHP 5",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-24T22:49:14"
+      },
+      {
+        "id": "MqAl4r7M",
+        "code": 4225496,
+        "name": "Desarrollador web",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-24T17:39:30"
+      },
+      {
+        "id": "jp9YQzvy",
+        "code": 55799,
+        "name": "MySQL",
+        "proficiency": "expert",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-24T17:39:24"
+      },
+      {
+        "id": "ynrAppby",
+        "code": 29427,
+        "name": "Symfony",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-24T17:17:53"
+      },
+      {
+        "id": "nM4dpxxM",
+        "code": 32052,
+        "name": "PHP",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-02-03T17:43:02"
+      },
+      {
+        "id": "jA95xXDj",
+        "code": 186709,
+        "name": "Autodidacta",
+        "proficiency": "master",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T19:21:16"
+      },
+      {
+        "id": "M3eKpXBy",
+        "code": 55664,
+        "name": "Trabajo en equipo",
+        "proficiency": "expert",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T19:21:13"
+      },
+      {
+        "id": "yX7Jkx5j",
+        "code": 221052,
+        "name": "Buena comunicación",
+        "proficiency": "expert",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T19:21:05"
+      },
+      {
+        "id": "MgE7xG4y",
+        "code": 55381,
+        "name": "Developer",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T19:21:01"
+      },
+      {
+        "id": "ykr3Ea6j",
+        "code": 194792,
+        "name": "Material design",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T19:14:15"
+      },
+      {
+        "id": "NO4n12xM",
+        "code": 32043,
+        "name": "Kotlin",
+        "proficiency": "no-experience-interested",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T19:14:04"
+      },
+      {
+        "id": "M9Ex8pLM",
+        "code": 32059,
+        "name": "Scala",
+        "proficiency": "no-experience-interested",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T19:14:01"
+      },
+      {
+        "id": "MBDxKAgy",
+        "code": 56482,
+        "name": "Strategic Thinking",
+        "proficiency": "no-experience-interested",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T19:13:59"
+      },
+      {
+        "id": "jrQJaOgM",
+        "code": 6085401,
+        "name": "Software architecture",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T19:12:22"
+      },
+      {
+        "id": "MqAq5wvM",
+        "code": 785265,
+        "name": "React native",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T18:59:19"
+      },
+      {
+        "id": "MgE7xJXy",
+        "code": 43618,
+        "name": "GraphQL",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T18:57:37"
+      },
+      {
+        "id": "yJeaLzwj",
+        "code": 63169,
+        "name": "ReactJS",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T18:57:28"
+      },
+      {
+        "id": "MvrzRbPM",
+        "code": 6124164,
+        "name": "Full Stack development",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-23T18:57:24"
+      },
+      {
+        "id": "M3eKb7wy",
+        "code": 49214,
+        "name": "PostgreSQL",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-20T14:47:16"
+      },
+      {
+        "id": "yZmX679j",
+        "code": 608833,
+        "name": "Prisma",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-20T14:47:12"
+      },
+      {
+        "id": "yX7Jn3Qj",
+        "code": 29351,
+        "name": "EXPRESS",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-20T14:45:50"
+      },
+      {
+        "id": "yolpBweN",
+        "code": 181305,
+        "name": "Microservicios",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-17T20:26:37"
+      },
+      {
+        "id": "yb0od6gM",
+        "code": 56083,
+        "name": "Redis",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-17T20:26:33"
+      },
+      {
+        "id": "jrQJDllM",
+        "code": 21290,
+        "name": "MongoDB",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-17T20:26:30"
+      },
+      {
+        "id": "MBDJPEXy",
+        "code": 55516,
+        "name": "Front end development",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-16T09:14:45"
+      },
+      {
+        "id": "NVYAR78y",
+        "code": 317833,
+        "name": "Bootstrap 4",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-16T09:14:40"
+      },
+      {
+        "id": "ynrERZoy",
+        "code": 9607901,
+        "name": "Metodología BEM",
+        "proficiency": "no-experience-interested",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-16T09:14:36"
+      },
+      {
+        "id": "yolER3dN",
+        "code": 23826,
+        "name": "Vue.js",
+        "proficiency": "no-experience-interested",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-16T09:14:31"
+      },
+      {
+        "id": "MRYZrJ5N",
+        "code": 18318,
+        "name": "HTML5",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-16T09:14:27"
+      },
+      {
+        "id": "y1OVamKM",
+        "code": 7107995,
+        "name": "Bootstrap 5",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-16T09:14:25"
+      },
+      {
+        "id": "yb0kRX9M",
+        "code": 56649,
+        "name": "UX/UI",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-11-16T09:14:23"
+      },
+      {
+        "id": "jp9l2lzy",
+        "code": 59925,
+        "name": "Node",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-15T09:49:50"
+      },
+      {
+        "id": "y1OpEgxM",
+        "code": 6083680,
+        "name": "Object oriented programming",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-15T09:30:15"
+      },
+      {
+        "id": "yb0gz6nM",
+        "code": 47084,
+        "name": "MVC",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-15T09:30:10"
+      },
+      {
+        "id": "9MEl6rQN",
+        "code": 23822,
+        "name": "SASS",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-10T11:02:13"
+      },
+      {
+        "id": "VjwmBdGN",
+        "code": 59902,
+        "name": "UI/UX",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-10T11:02:11"
+      },
+      {
+        "id": "wM7lWrzj",
+        "code": 54260,
+        "name": "UIKit",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-10T11:02:02"
+      },
+      {
+        "id": "vN8oP2Dy",
+        "code": 234085,
+        "name": "Desarrollo de software",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-09-29T21:32:51"
+      },
+      {
+        "id": "GNKl1OXM",
+        "code": 62652,
+        "name": "Figma",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-10T11:01:58"
+      },
+      {
+        "id": "KNxeZdkM",
+        "code": 50182,
+        "name": "React",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-10T11:01:54"
+      },
+      {
+        "id": "ZNOlpKoM",
+        "code": 40852,
+        "name": "DevOps",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-06T03:38:02"
+      },
+      {
+        "id": "xM9laD9N",
+        "code": 23813,
+        "name": "Node.js",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-06T03:38:00"
+      },
+      {
+        "id": "9MBlEvAy",
+        "code": 23818,
+        "name": "React.js",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-10-06T03:37:53"
+      },
+      {
+        "id": "LMgmDRgy",
+        "code": 38370,
+        "name": "Azure",
+        "proficiency": "novice",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-09-29T21:32:49"
+      },
+      {
+        "id": "pyJvXxWy",
+        "code": 226551,
+        "name": "API REST",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-09-29T21:32:45"
+      },
+      {
+        "id": "vN8p1YPN",
+        "code": 36719,
+        "name": "XAML",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-09-23T05:18:20"
+      },
+      {
+        "id": "LMgk50QM",
+        "code": 28989,
+        "name": "Xamarin",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-09-23T05:18:12"
+      },
+      {
+        "id": "pyJE4JPj",
+        "code": 21507,
+        "name": "Transact-SQL",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-09-23T05:18:07"
+      },
+      {
+        "id": "9MErxXnj",
+        "code": 6085830,
+        "name": "System design",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-07-02T23:10:44"
+      },
+      {
+        "id": "VjwdZ44y",
+        "code": 55521,
+        "name": "Front-end development",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-07-02T23:10:28"
+      },
+      {
+        "id": "wM7rpdDN",
+        "code": 13892,
+        "name": "Architecture",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-07-02T23:10:15"
+      },
+      {
+        "id": "qy0r7JlM",
+        "code": 37555,
+        "name": "Algorithms",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-07-02T23:10:02"
+      },
+      {
+        "id": "8yZndwRy",
+        "code": 521,
+        "name": "Engineering",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-17T22:24:39"
+      },
+      {
+        "id": "XMq1eW7M",
+        "code": 218736,
+        "name": "Design",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-02T03:30:30"
+      },
+      {
+        "id": "8jp1m6vy",
+        "code": 1675,
+        "name": "Troubleshooting",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-02T03:29:36"
+      },
+      {
+        "id": "bjALnPvM",
+        "code": 14505,
+        "name": "Bash",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:29:58"
+      },
+      {
+        "id": "JMe1EOaM",
+        "code": 12592,
+        "name": "Coding",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:29:04"
+      },
+      {
+        "id": "kNm10bXN",
+        "code": 25719,
+        "name": "Scripting",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:28:47"
+      },
+      {
+        "id": "8yZn3Q0y",
+        "code": 56622,
+        "name": "Teamwork",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:27:21"
+      },
+      {
+        "id": "5yk1092M",
+        "code": 4187786,
+        "name": "Adaptability",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:26:24"
+      },
+      {
+        "id": "xM9kW4wy",
+        "code": 4186030,
+        "name": "Creativity",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:26:01"
+      },
+      {
+        "id": "9MBLn9ly",
+        "code": 6084812,
+        "name": "Responsive design",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:25:34"
+      },
+      {
+        "id": "WNVlrn0j",
+        "code": 6773,
+        "name": "Debugging",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:25:11"
+      },
+      {
+        "id": "eyn1wORj",
+        "code": 18317,
+        "name": "CSS3",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:18:48"
+      },
+      {
+        "id": "pyo1w2AM",
+        "code": 18901,
+        "name": "ASP",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:18:39"
+      },
+      {
+        "id": "gMR5BV2N",
+        "code": 6079187,
+        "name": ".NET core",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:18:30"
+      },
+      {
+        "id": "ny1Lg1Bj",
+        "code": 55128,
+        "name": ".NET",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:18:23"
+      },
+      {
+        "id": "kyb56Q7j",
+        "code": 7173213,
+        "name": "Reports RDLC",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:18:10"
+      },
+      {
+        "id": "Ajr9l2dM",
+        "code": 40844,
+        "name": "DevExpress",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:17:38"
+      },
+      {
+        "id": "ANa1Eo1N",
+        "code": 23828,
+        "name": "XML",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:17:14"
+      },
+      {
+        "id": "vy5ngV4N",
+        "code": 28126,
+        "name": "JSON",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:17:10"
+      },
+      {
+        "id": "BML5Y4Vj",
+        "code": 59162,
+        "name": "SQL",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:17:06"
+      },
+      {
+        "id": "Oj6aD1AM",
+        "code": 52652,
+        "name": "SQL Server",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:17:02"
+      },
+      {
+        "id": "7M2Ln11y",
+        "code": 185150,
+        "name": "Base de datos SQL",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 1,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:16:46"
+      },
+      {
+        "id": "JyQ50R6y",
+        "code": 32141,
+        "name": "Bash (Unix Shell)",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:16:00"
+      },
+      {
+        "id": "nM4L41PM",
+        "code": 30356,
+        "name": "Linux",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:15:49"
+      },
+      {
+        "id": "9MELn9QN",
+        "code": 32590,
+        "name": "TypeScript",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:12:26"
+      },
+      {
+        "id": "Vjw162GN",
+        "code": 6380,
+        "name": "API",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:12:21"
+      },
+      {
+        "id": "wM7L91zj",
+        "code": 28888,
+        "name": "REST",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:12:15"
+      },
+      {
+        "id": "GNKB8bXy",
+        "code": 18374,
+        "name": "GitHub",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:11:58"
+      },
+      {
+        "id": "KNx1KVkM",
+        "code": 4189937,
+        "name": "GIT",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:11:56"
+      },
+      {
+        "id": "qy0QgRqN",
+        "code": 5993,
+        "name": "AWS",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:11:39"
+      },
+      {
+        "id": "gyY5ZQgy",
+        "code": 7172829,
+        "name": "Requirements Analysis",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:07:04"
+      },
+      {
+        "id": "zNGLJ4oM",
+        "code": 2549535,
+        "name": "Requirements analyst",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:07:01"
+      },
+      {
+        "id": "qNPbDQ2j",
+        "code": 34500,
+        "name": "Scrum",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:05:41"
+      },
+      {
+        "id": "RyDL74vy",
+        "code": 23009,
+        "name": "CSS",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:04:47"
+      },
+      {
+        "id": "9MEbGOxj",
+        "code": 23802,
+        "name": "HTML",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 1,
+        "media": [],
+        "supra": false,
+        "created": "2021-02-03T17:42:55"
+      },
+      {
+        "id": "AMW5oQ1y",
+        "code": 18319,
+        "name": "Javascript",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:04:43"
+      },
+      {
+        "id": "0yz1K2aj",
+        "code": 203805,
+        "name": "Communication",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:04:33"
+      },
+      {
+        "id": "vN8LY1YN",
+        "code": 5983,
+        "name": "Programming",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T07:04:09"
+      },
+      {
+        "id": "xyX5XQYN",
+        "code": 56891,
+        "name": "Web Development",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T06:58:23"
+      },
+      {
+        "id": "pyJrJ4ky",
+        "code": 32018,
+        "name": "C#",
+        "proficiency": "proficient",
+        "weight": 0,
+        "recommendations": 1,
+        "media": [],
+        "supra": false,
+        "created": "2021-06-01T06:54:15"
+      },
+      {
+        "id": "gMR6J88M",
+        "code": 52274,
+        "name": "Software engineering",
+        "proficiency": "proficient",
+        "additionalInfo": "",
+        "weight": 0,
+        "recommendations": 0,
+        "media": [],
+        "supra": false,
+        "created": "2021-02-03T03:33:11"
+      },
+      {
+        "id": "xM91keqM",
+        "code": 61332,
+        "name": "Software development",
+        "proficiency": "proficient",
+        "weight": 127.5,
+        "recommendations": 4,
+        "media": [],
+        "supra": false,
+        "created": "2021-01-11T16:51:07"
+      }
+    ],
+    "interests": [],
+    "experiences": [
+      {
+        "id": "vN83Zm2y",
+        "category": "jobs",
+        "name": "Freelancer Developer",
+        "organizations": [
+          { "id": 653495, "name": "Personal", "publicId": "Personal4" }
+        ],
+        "responsibilities": [],
+        "fromMonth": "January",
+        "fromYear": "2021",
+        "remote": true,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 0,
+        "recommendations": 0,
+        "media": [],
+        "rank": 1,
+        "strengths": []
+      },
+      {
+        "id": "bjAqnd6j",
+        "category": "education",
+        "name": "Computer Software Engineering",
+        "organizations": [
+          {
+            "id": 444423,
+            "name": "Ceutec Honduras",
+            "publicId": "CeutecHonduras",
+            "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1601777897/origin/bio/organizations/o851jcqgtnquheffqtuy.png"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "November",
+        "fromYear": "2018",
+        "remote": false,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 0,
+        "recommendations": 0,
+        "media": [],
+        "rank": 1,
+        "strengths": []
+      },
+      {
+        "id": "Ajrwk5gy",
+        "category": "jobs",
+        "name": "Desktop and Mobile Developer",
+        "organizations": [
+          {
+            "id": 336249,
+            "name": "Aguas de San Pedro",
+            "publicId": "AguasDeSanPedro"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "January",
+        "fromYear": "2020",
+        "toMonth": "December",
+        "toYear": "2020",
+        "remote": false,
+        "additionalInfo": "¿QUIÉNES SOMOS?\nNuestra misión es administrar de manera eficiente y competitiva el servicio de Agua Potable y Alcantarillado Sanitario de la Ciudad de San Pedro Sula, integrando a nuestro modelo de gestión el sentido social, la protección del medio ambiente y el respeto de las normas nacionales de calidad.\n\nNuestra visión es convertirnos en una concesionaria líder de agua y saneamiento, fortaleciendo nuestras capacidades técnicas y financieras para proporcionar soluciones a los problemas y necesidades demandadas por nuestros usuarios.",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 1,
+        "recommendations": 0,
+        "media": [
+          {
+            "group": "2c07e628-5eee-4674-aa36-1f660341f478",
+            "mediaType": "link",
+            "description": "",
+            "mediaItems": [
+              { "id": "wM7RADNY", "address": "http://www.asp.com.hn/asp/" }
+            ]
+          }
+        ],
+        "rank": 2,
+        "strengths": []
+      },
+      {
+        "id": "pyJGwwkN",
+        "category": "education",
+        "name": "Academia de Programadores",
+        "organizations": [
+          {
+            "id": 741358,
+            "name": "Asociación Hondureña de Maquiladores",
+            "publicId": "AsociaciNHondureADeMaquiladores1",
+            "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1605790419/origin/bio/organizations/k10atjxchg9b7btyafjk.png"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "April",
+        "fromYear": "2018",
+        "toMonth": "April",
+        "toYear": "2019",
+        "remote": false,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 1,
+        "recommendations": 1,
+        "media": [],
+        "rank": 2,
+        "strengths": []
+      },
+      {
+        "id": "OMvgBB9j",
+        "category": "jobs",
+        "name": "FrontEnd Developer",
+        "organizations": [
+          {
+            "id": 384707,
+            "name": "Bidss Technology",
+            "publicId": "BidssTechnology",
+            "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1600926420/origin/bio/organizations/organizationsBidss_Technology_pcumta.png"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "September",
+        "fromYear": "2019",
+        "toMonth": "December",
+        "toYear": "2020",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 1,
+        "recommendations": 1,
+        "media": [],
+        "rank": 3,
+        "strengths": []
+      },
+      {
+        "id": "nM48qKkM",
+        "category": "jobs",
+        "name": "Web Developer",
+        "organizations": [],
+        "responsibilities": [],
+        "fromMonth": "April",
+        "fromYear": "2019",
+        "toMonth": "September",
+        "toYear": "2019",
+        "remote": true,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 0,
+        "recommendations": 0,
+        "media": [],
+        "rank": 4,
+        "strengths": []
+      },
+      {
+        "id": "vy5EGmAy",
+        "category": "jobs",
+        "name": "Junior Developer Apprenticeship",
+        "organizations": [
+          {
+            "id": 641923,
+            "name": "Asociación Hondureña de Maquiladores Apprenticeship",
+            "publicId": "AsociaciNHondureADeMaquiladoresApprenticeship",
+            "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1612968913/origin/bio/organizations/sqvqqsh5ccuuqfsdefng.jpg"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "April",
+        "fromYear": "2018",
+        "toMonth": "April",
+        "toYear": "2019",
+        "remote": false,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 127.5,
+        "verifications": 3,
+        "recommendations": 2,
+        "media": [],
+        "rank": 5,
+        "strengths": []
+      }
+    ],
+    "awards": [],
+    "jobs": [
+      {
+        "id": "vN83Zm2y",
+        "category": "jobs",
+        "name": "Freelancer Developer",
+        "organizations": [
+          { "id": 653495, "name": "Personal", "publicId": "Personal4" }
+        ],
+        "responsibilities": [],
+        "fromMonth": "January",
+        "fromYear": "2021",
+        "remote": true,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 0,
+        "recommendations": 0,
+        "media": [],
+        "rank": 1,
+        "strengths": []
+      },
+      {
+        "id": "Ajrwk5gy",
+        "category": "jobs",
+        "name": "Desktop and Mobile Developer",
+        "organizations": [
+          {
+            "id": 336249,
+            "name": "Aguas de San Pedro",
+            "publicId": "AguasDeSanPedro"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "January",
+        "fromYear": "2020",
+        "toMonth": "December",
+        "toYear": "2020",
+        "remote": false,
+        "additionalInfo": "¿QUIÉNES SOMOS?\nNuestra misión es administrar de manera eficiente y competitiva el servicio de Agua Potable y Alcantarillado Sanitario de la Ciudad de San Pedro Sula, integrando a nuestro modelo de gestión el sentido social, la protección del medio ambiente y el respeto de las normas nacionales de calidad.\n\nNuestra visión es convertirnos en una concesionaria líder de agua y saneamiento, fortaleciendo nuestras capacidades técnicas y financieras para proporcionar soluciones a los problemas y necesidades demandadas por nuestros usuarios.",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 1,
+        "recommendations": 0,
+        "media": [
+          {
+            "group": "2c07e628-5eee-4674-aa36-1f660341f478",
+            "mediaType": "link",
+            "description": "",
+            "mediaItems": [
+              { "id": "wM7RADNY", "address": "http://www.asp.com.hn/asp/" }
+            ]
+          }
+        ],
+        "rank": 2,
+        "strengths": []
+      },
+      {
+        "id": "OMvgBB9j",
+        "category": "jobs",
+        "name": "FrontEnd Developer",
+        "organizations": [
+          {
+            "id": 384707,
+            "name": "Bidss Technology",
+            "publicId": "BidssTechnology",
+            "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1600926420/origin/bio/organizations/organizationsBidss_Technology_pcumta.png"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "September",
+        "fromYear": "2019",
+        "toMonth": "December",
+        "toYear": "2020",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 1,
+        "recommendations": 1,
+        "media": [],
+        "rank": 3,
+        "strengths": []
+      },
+      {
+        "id": "nM48qKkM",
+        "category": "jobs",
+        "name": "Web Developer",
+        "organizations": [],
+        "responsibilities": [],
+        "fromMonth": "April",
+        "fromYear": "2019",
+        "toMonth": "September",
+        "toYear": "2019",
+        "remote": true,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 0,
+        "recommendations": 0,
+        "media": [],
+        "rank": 4,
+        "strengths": []
+      },
+      {
+        "id": "vy5EGmAy",
+        "category": "jobs",
+        "name": "Junior Developer Apprenticeship",
+        "organizations": [
+          {
+            "id": 641923,
+            "name": "Asociación Hondureña de Maquiladores Apprenticeship",
+            "publicId": "AsociaciNHondureADeMaquiladoresApprenticeship",
+            "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1612968913/origin/bio/organizations/sqvqqsh5ccuuqfsdefng.jpg"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "April",
+        "fromYear": "2018",
+        "toMonth": "April",
+        "toYear": "2019",
+        "remote": false,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 127.5,
+        "verifications": 3,
+        "recommendations": 2,
+        "media": [],
+        "rank": 5,
+        "strengths": []
+      }
+    ],
+    "projects": [],
+    "publications": [],
+    "education": [
+      {
+        "id": "bjAqnd6j",
+        "category": "education",
+        "name": "Computer Software Engineering",
+        "organizations": [
+          {
+            "id": 444423,
+            "name": "Ceutec Honduras",
+            "publicId": "CeutecHonduras",
+            "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1601777897/origin/bio/organizations/o851jcqgtnquheffqtuy.png"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "November",
+        "fromYear": "2018",
+        "remote": false,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 0,
+        "recommendations": 0,
+        "media": [],
+        "rank": 1,
+        "strengths": []
+      },
+      {
+        "id": "pyJGwwkN",
+        "category": "education",
+        "name": "Academia de Programadores",
+        "organizations": [
+          {
+            "id": 741358,
+            "name": "Asociación Hondureña de Maquiladores",
+            "publicId": "AsociaciNHondureADeMaquiladores1",
+            "picture": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1605790419/origin/bio/organizations/k10atjxchg9b7btyafjk.png"
+          }
+        ],
+        "responsibilities": [],
+        "fromMonth": "April",
+        "fromYear": "2018",
+        "toMonth": "April",
+        "toYear": "2019",
+        "remote": false,
+        "additionalInfo": "",
+        "highlighted": true,
+        "weight": 0,
+        "verifications": 1,
+        "recommendations": 1,
+        "media": [],
+        "rank": 2,
+        "strengths": []
+      }
+    ],
+    "opportunities": [
+      { "id": "jwgEplrj", "interest": "jobs", "field": "private", "data": false },
+      {
+        "id": "MEegbP2M",
+        "interest": "advising",
+        "field": "active",
+        "data": false
+      },
+      {
+        "id": "yY3DwwgM",
+        "interest": "mentoring",
+        "field": "active",
+        "data": false
+      },
+      { "id": "NGpeoPnM", "interest": "jobs", "field": "active", "data": true },
+      {
+        "id": "yzlgnmRM",
+        "interest": "industries",
+        "field": "types",
+        "data": [
+          { "code": 33426, "locale": "en", "name": "Software engineering" },
+          {
+            "code": 33339,
+            "locale": "en",
+            "name": "Software and computer services"
+          },
+          { "code": 33335, "locale": "en", "name": "Software development" }
+        ]
+      },
+      {
+        "id": "MvnmJlPM",
+        "interest": "jobs",
+        "field": "desirable-compensation-publicly-visible",
+        "data": true
+      },
+      {
+        "id": "M963azLj",
+        "interest": "jobs-full-time",
+        "field": "active",
+        "data": true
+      },
+      {
+        "id": "NO3EpLxN",
+        "interest": "jobs",
+        "field": "desirable-compensation-currency",
+        "data": "USD$"
+      },
+      {
+        "id": "jlJwaREN",
+        "interest": "jobs",
+        "field": "desirable-compensation-periodicity",
+        "data": "monthly"
+      },
+      {
+        "id": "yd6DlRpM",
+        "interest": "jobs",
+        "field": "desirable-compensation-amount",
+        "data": 1800
+      },
+      {
+        "id": "yk67wR6j",
+        "interest": "jobs-full-time",
+        "field": "private",
+        "data": false
+      },
+      { "id": "yZ7ArRGN", "interest": "gigs", "field": "active", "data": true },
+      {
+        "id": "M37QAZ6M",
+        "interest": "gigs",
+        "field": "desirable-compensation-currency",
+        "data": "USD$"
+      },
+      {
+        "id": "NmgEwRBj",
+        "interest": "gigs",
+        "field": "desirable-compensation-periodicity",
+        "data": "hourly"
+      },
+      {
+        "id": "Me6PoREj",
+        "interest": "gigs",
+        "field": "desirable-compensation-amount",
+        "data": 25
+      },
+      { "id": "jAmg0DYj", "interest": "gigs", "field": "private", "data": false },
+      {
+        "id": "jpE2mRmy",
+        "interest": "internships",
+        "field": "active",
+        "data": false
+      },
+      {
+        "id": "MvnmJeOM",
+        "interest": "internships",
+        "field": "desirable-compensation-currency",
+        "data": "USD$"
+      },
+      {
+        "id": "Mq96eRpM",
+        "interest": "internships",
+        "field": "private",
+        "data": false
+      },
+      { "id": "yJ80ZEoM", "interest": "hiring", "field": "active", "data": false }
+    ],
+    "languages": [
+      { "code": "es", "language": "Spanish", "fluency": "fully-fluent" },
+      { "code": "en", "language": "English", "fluency": "conversational" }
+    ],
+    "personalityTraitsResults": {
+      "groups": [
+        { "id": "extraversion", "order": 0, "median": 3.5, "stddev": 0.57 },
+        {
+          "id": "openness-to-experience",
+          "order": 1,
+          "median": 3.41,
+          "stddev": 0.6
+        },
+        { "id": "conscientiousness", "order": 2, "median": 3.44, "stddev": 0.56 },
+        { "id": "agreeableness", "order": 3, "median": 2.94, "stddev": 0.58 },
+        { "id": "honesty-humility", "order": 4, "median": 3.19, "stddev": 0.62 },
+        { "id": "emotionality", "order": 5, "median": 3.43, "stddev": 0.62 }
+      ],
+      "analyses": [
+        { "groupId": "openness-to-experience", "analysis": 4 },
+        { "groupId": "honesty-humility", "analysis": 3.81 },
+        { "groupId": "agreeableness", "analysis": 3.56 },
+        { "groupId": "altruism", "analysis": 4 },
+        { "groupId": "conscientiousness", "analysis": 3.63 },
+        { "groupId": "emotionality", "analysis": 3 },
+        { "groupId": "extraversion", "analysis": 3.75 }
+      ]
+    },
+    "professionalCultureGenomeResults": {
+      "groups": [
+        {
+          "id": "3",
+          "text": { "common": "Adaptability" },
+          "answer": "4",
+          "order": 0,
+          "median": 3.53455274,
+          "stddev": 0.6204672813
+        },
+        {
+          "id": "6",
+          "text": { "common": "Being analytical" },
+          "answer": "4",
+          "order": 1,
+          "median": 3.390055005,
+          "stddev": 0.6916525511
+        },
+        {
+          "id": "7",
+          "text": { "common": "Being calm" },
+          "answer": "4",
+          "order": 2,
+          "median": 3.220002337,
+          "stddev": 0.7320363351
+        },
+        {
+          "id": "12",
+          "text": { "common": "Being easygoing" },
+          "answer": "4",
+          "order": 3,
+          "median": 3.418765284,
+          "stddev": 0.7478766839
+        },
+        {
+          "id": "13",
+          "text": { "common": "Being fair" },
+          "answer": "4",
+          "order": 4,
+          "median": 3.61264673,
+          "stddev": 0.6273839106
+        },
+        {
+          "id": "14",
+          "text": { "common": "Being honest" },
+          "answer": "4",
+          "order": 5,
+          "median": 3.849761837,
+          "stddev": 0.3852109863
+        },
+        {
+          "id": "15",
+          "text": { "common": "Being innovative" },
+          "answer": "4",
+          "order": 6,
+          "median": 3.391966471,
+          "stddev": 0.7194864422
+        },
+        {
+          "id": "26",
+          "text": { "common": "Being willing to experiment" },
+          "answer": "4",
+          "order": 7,
+          "median": 3.336304234,
+          "stddev": 0.7469585025
+        },
+        {
+          "id": "28",
+          "text": { "common": "Cooperative" },
+          "answer": "4",
+          "order": 8,
+          "median": 3.637398991,
+          "stddev": 0.5441371579
+        },
+        {
+          "id": "29",
+          "text": { "common": "Emphasis on professional growth" },
+          "answer": "4",
+          "order": 9,
+          "median": 3.640229705,
+          "stddev": 0.5835093756
+        },
+        {
+          "id": "30",
+          "text": { "common": "Emphasizing quality" },
+          "answer": "4",
+          "order": 10,
+          "median": 3.622124519,
+          "stddev": 0.5685579656
+        },
+        {
+          "id": "38",
+          "text": { "common": "Learning from mistakes" },
+          "answer": "4",
+          "order": 11,
+          "median": 3.685785863,
+          "stddev": 0.5356724665
+        },
+        {
+          "id": "41",
+          "text": { "common": "Not being constrained by many rules" },
+          "answer": "4",
+          "order": 12,
+          "median": 2.395910707,
+          "stddev": 1.044083104
+        },
+        {
+          "id": "42",
+          "text": { "common": "Paying attention to detail" },
+          "answer": "4",
+          "order": 13,
+          "median": 3.530555446,
+          "stddev": 0.6241323568
+        },
+        {
+          "id": "54",
+          "text": { "common": "Working in collaboration with others" },
+          "answer": "4",
+          "order": 14,
+          "median": 3.504892548,
+          "stddev": 0.6398516423
+        },
+        {
+          "id": "1",
+          "text": { "common": "Achievement oriented" },
+          "answer": "3",
+          "order": 15,
+          "median": 3.307087211,
+          "stddev": 0.7408654995
+        },
+        {
+          "id": "10",
+          "text": { "common": "Being customer oriented" },
+          "answer": "3",
+          "order": 16,
+          "median": 3.426673945,
+          "stddev": 0.7629528583
+        },
+        {
+          "id": "11",
+          "text": { "common": "Being decisive" },
+          "answer": "3",
+          "order": 17,
+          "median": 3.280022884,
+          "stddev": 0.7333204925
+        },
+        {
+          "id": "17",
+          "text": { "common": "Being people oriented" },
+          "answer": "3",
+          "order": 18,
+          "median": 3.323092158,
+          "stddev": 0.7719721827
+        },
+        {
+          "id": "18",
+          "text": { "common": "Being precise" },
+          "answer": "3",
+          "order": 19,
+          "median": 3.202731585,
+          "stddev": 0.7136453554
+        },
+        {
+          "id": "19",
+          "text": { "common": "Being quick to take advantage of opportunities" },
+          "answer": "3",
+          "order": 20,
+          "median": 3.155788266,
+          "stddev": 0.7910802406
+        },
+        {
+          "id": "21",
+          "text": { "common": "Being results oriented" },
+          "answer": "3",
+          "order": 21,
+          "median": 3.402746414,
+          "stddev": 0.6924228714
+        },
+        {
+          "id": "23",
+          "text": { "common": "Being supportive" },
+          "answer": "3",
+          "order": 22,
+          "median": 3.521348496,
+          "stddev": 0.6202686763
+        },
+        {
+          "id": "24",
+          "text": { "common": "Being team oriented" },
+          "answer": "3",
+          "order": 23,
+          "median": 3.515253662,
+          "stddev": 0.6403773213
+        },
+        {
+          "id": "25",
+          "text": { "common": "Being tolerant" },
+          "answer": "3",
+          "order": 24,
+          "median": 3.429954405,
+          "stddev": 0.6756940264
+        },
+        {
+          "id": "34",
+          "text": { "common": "Having high expectations for performance" },
+          "answer": "3",
+          "order": 25,
+          "median": 3.490903614,
+          "stddev": 0.6463617196
+        },
+        {
+          "id": "35",
+          "text": { "common": "Having integrity" },
+          "answer": "3",
+          "order": 26,
+          "median": 3.754173109,
+          "stddev": 0.4849079849
+        },
+        {
+          "id": "39",
+          "text": { "common": "Listening to customers" },
+          "answer": "3",
+          "order": 27,
+          "median": 3.684881005,
+          "stddev": 0.5685013891
+        },
+        {
+          "id": "43",
+          "text": { "common": "Predictability" },
+          "answer": "3",
+          "order": 28,
+          "median": 2.931484545,
+          "stddev": 0.8854629428
+        },
+        {
+          "id": "45",
+          "text": { "common": "Respecting individuals" },
+          "answer": "3",
+          "order": 29,
+          "median": 3.862969241,
+          "stddev": 0.3800380304
+        },
+        {
+          "id": "46",
+          "text": { "common": "Risk-taking" },
+          "answer": "3",
+          "order": 30,
+          "median": 2.843108659,
+          "stddev": 0.8711670703
+        },
+        {
+          "id": "49",
+          "text": { "common": "Stability" },
+          "answer": "3",
+          "order": 31,
+          "median": 3.373058016,
+          "stddev": 0.7308361333
+        },
+        {
+          "id": "50",
+          "text": { "common": "Taking individual responsibility" },
+          "answer": "3",
+          "order": 32,
+          "median": 3.385036017,
+          "stddev": 0.729758287
+        },
+        {
+          "id": "51",
+          "text": { "common": "Taking initiative" },
+          "answer": "3",
+          "order": 33,
+          "median": 3.303996319,
+          "stddev": 0.7403525539
+        },
+        {
+          "id": "2",
+          "text": { "common": "Action oriented" },
+          "answer": "2",
+          "order": 34,
+          "median": 3.182707783,
+          "stddev": 0.7414651075
+        },
+        {
+          "id": "4",
+          "text": { "common": "Avoiding conflict" },
+          "answer": "2",
+          "order": 35,
+          "median": 3.184795276,
+          "stddev": 0.8784443312
+        },
+        {
+          "id": "8",
+          "text": { "common": "Being careful" },
+          "answer": "2",
+          "order": 36,
+          "median": 3.297779509,
+          "stddev": 0.721817971
+        },
+        {
+          "id": "9",
+          "text": { "common": "Being competitive" },
+          "answer": "2",
+          "order": 37,
+          "median": 2.983387237,
+          "stddev": 0.9488376744
+        },
+        {
+          "id": "20",
+          "text": { "common": "Being reflective" },
+          "answer": "2",
+          "order": 38,
+          "median": 3.200198307,
+          "stddev": 0.7582734099
+        },
+        {
+          "id": "27",
+          "text": { "common": "Confronting conflict directly" },
+          "answer": "2",
+          "order": 39,
+          "median": 3.101074538,
+          "stddev": 0.9032905675
+        },
+        {
+          "id": "31",
+          "text": { "common": "Fast moving" },
+          "answer": "2",
+          "order": 40,
+          "median": 3.078259813,
+          "stddev": 0.7687488044
+        },
+        {
+          "id": "33",
+          "text": { "common": "Having high ethical standards" },
+          "answer": "2",
+          "order": 41,
+          "median": 3.627091571,
+          "stddev": 0.6464404497
+        },
+        {
+          "id": "37",
+          "text": { "common": "Individual goals are transparent" },
+          "answer": "2",
+          "order": 42,
+          "median": 3.090594345,
+          "stddev": 0.9397403977
+        },
+        {
+          "id": "5",
+          "text": { "common": "Being aggressive" },
+          "answer": "1",
+          "order": 43,
+          "median": 0.8133620243,
+          "stddev": 0.8965000891
+        },
+        {
+          "id": "16",
+          "text": { "common": "Being market driven" },
+          "answer": "1",
+          "order": 44,
+          "median": 2.704610857,
+          "stddev": 0.9381360182
+        },
+        {
+          "id": "22",
+          "text": { "common": "Being rule oriented" },
+          "answer": "1",
+          "order": 45,
+          "median": 3.119940441,
+          "stddev": 0.8511788641
+        },
+        {
+          "id": "32",
+          "text": { "common": "Hard-driving" },
+          "answer": "1",
+          "order": 46,
+          "median": 2.843729747,
+          "stddev": 1.108178542
+        },
+        {
+          "id": "36",
+          "text": { "common": "High levels of conflict" },
+          "answer": "1",
+          "order": 47,
+          "median": 0.8046163721,
+          "stddev": 0.9958574145
+        },
+        {
+          "id": "40",
+          "text": { "common": "Making your numbers" },
+          "answer": "1",
+          "order": 48,
+          "median": 3.194500771,
+          "stddev": 0.8527745846
+        },
+        {
+          "id": "44",
+          "text": {
+            "common": "Putting organization's goals before unit's goals"
+          },
+          "answer": "1",
+          "order": 49,
+          "median": 2.817963301,
+          "stddev": 0.9484849627
+        },
+        {
+          "id": "47",
+          "text": { "common": "Security of employment" },
+          "answer": "1",
+          "order": 50,
+          "median": 3.169801154,
+          "stddev": 0.8803406124
+        },
+        {
+          "id": "52",
+          "text": { "common": "Urgency" },
+          "answer": "1",
+          "order": 51,
+          "median": 2.606840978,
+          "stddev": 0.9817675335
+        },
+        {
+          "id": "48",
+          "text": { "common": "Sharing information freely" },
+          "answer": "0",
+          "order": 52,
+          "median": 2.204781432,
+          "stddev": 1.247555541
+        },
+        {
+          "id": "53",
+          "text": { "common": "What you know matters more than who you know" },
+          "answer": "0",
+          "order": 53,
+          "median": 2.07754721,
+          "stddev": 1.153373214
+        }
+      ],
+      "analyses": [
+        { "groupId": "3", "analysis": 4 },
+        { "groupId": "6", "analysis": 4 },
+        { "groupId": "7", "analysis": 4 },
+        { "groupId": "12", "analysis": 4 },
+        { "groupId": "13", "analysis": 4 },
+        { "groupId": "14", "analysis": 4 },
+        { "groupId": "15", "analysis": 4 },
+        { "groupId": "26", "analysis": 4 },
+        { "groupId": "28", "analysis": 4 },
+        { "groupId": "29", "analysis": 4 },
+        { "groupId": "30", "analysis": 4 },
+        { "groupId": "38", "analysis": 4 },
+        { "groupId": "41", "analysis": 4 },
+        { "groupId": "42", "analysis": 4 },
+        { "groupId": "54", "analysis": 4 },
+        { "groupId": "1", "analysis": 3 },
+        { "groupId": "10", "analysis": 3 },
+        { "groupId": "11", "analysis": 3 },
+        { "groupId": "17", "analysis": 3 },
+        { "groupId": "18", "analysis": 3 },
+        { "groupId": "19", "analysis": 3 },
+        { "groupId": "21", "analysis": 3 },
+        { "groupId": "23", "analysis": 3 },
+        { "groupId": "24", "analysis": 3 },
+        { "groupId": "25", "analysis": 3 },
+        { "groupId": "34", "analysis": 3 },
+        { "groupId": "35", "analysis": 3 },
+        { "groupId": "39", "analysis": 3 },
+        { "groupId": "43", "analysis": 3 },
+        { "groupId": "45", "analysis": 3 },
+        { "groupId": "46", "analysis": 3 },
+        { "groupId": "49", "analysis": 3 },
+        { "groupId": "50", "analysis": 3 },
+        { "groupId": "51", "analysis": 3 },
+        { "groupId": "2", "analysis": 2 },
+        { "groupId": "4", "analysis": 2 },
+        { "groupId": "8", "analysis": 2 },
+        { "groupId": "9", "analysis": 2 },
+        { "groupId": "20", "analysis": 2 },
+        { "groupId": "27", "analysis": 2 },
+        { "groupId": "31", "analysis": 2 },
+        { "groupId": "33", "analysis": 2 },
+        { "groupId": "37", "analysis": 2 },
+        { "groupId": "5", "analysis": 1 },
+        { "groupId": "16", "analysis": 1 },
+        { "groupId": "22", "analysis": 1 },
+        { "groupId": "32", "analysis": 1 },
+        { "groupId": "36", "analysis": 1 },
+        { "groupId": "40", "analysis": 1 },
+        { "groupId": "44", "analysis": 1 },
+        { "groupId": "47", "analysis": 1 },
+        { "groupId": "52", "analysis": 1 },
+        { "groupId": "48", "analysis": 0 },
+        { "groupId": "53", "analysis": 0 }
+      ]
+    }
+  }
+  
