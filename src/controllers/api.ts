@@ -32,5 +32,5 @@ export const loadApiEndpoints = async (app: Application): Promise<void> => {
     }
   });
 
-  client.quit();
+  client.disconnect();
 };
